@@ -18,4 +18,4 @@ This won't do anything yet, for this to work you have to inject pyenv into the s
 
 This is where it gets messy. You have to paste in some specific commands into a specific file for your particular environment.
 
-With fish, this is handled by a plugin which makes it incredibly easy: `omf install pyenv`
+With [fish](https://fishshell.com/), this is handled by a plugin which makes it incredibly easy: `omf install pyenv`
