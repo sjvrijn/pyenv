@@ -10,7 +10,7 @@ See which Python versions you have installed: `pyenv versions`
 
 Set the Python version you just installed to be the global version on your system: `pyenv global 3.7.8`
 
-- or -
+-or-
 
 Set the Python version you just installed to the be the version for this specific directory with: `pyenv local 3.7.8`
 
